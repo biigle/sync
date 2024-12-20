@@ -1,5 +1,7 @@
 # BIIGLE Sync Module
 
+⚠️ This module has been [merged](https://github.com/biigle/core/pull/1018) into biigle/core.
+
 [![Test status](https://github.com/biigle/sync/workflows/Tests/badge.svg)](https://github.com/biigle/sync/actions?query=workflow%3ATests)
 
 This is the BIIGLE module to transfer data between application instances.
